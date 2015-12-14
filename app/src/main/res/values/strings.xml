@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tennis Scoring App K.S.</string>
+
+    <string name="header">Tennis Scoring App - Kat Sayrs</string>
+    <string name="love_init">Love</string>
+    <string name="Game">Game Points:</string>
+    <string name="games_won">Game:</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="score">Score</string>
+    <string name="reset">Reset</string>
+    <string name="placeholder_number">0</string>
+    <string name="set_points">Set:</string>
+    <string name="match_points">Match:</string>
+    <string name="deuce">Deuce!</string>
+    <string name="tiebreaker">Tiebreaker</string>
+    <string name="advantage1">Player one has the advantage</string>
+    <string name="advantage2">Player two has the advantage</string>
+    <string name="player_one_game_victory">Player one wins the game!</string>
+    <string name="player_two_game_victory">Player two wins the game!</string>
+    <string name="player_one_set_victory">Player one wins the set!</string>
+    <string name="player_two_set_victory">Player two wins the set!</string>
+    <string name="player_one_match_victory">Player one has won the match!</string>
+    <string name="player_two_match_victory">Player two has won the match!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

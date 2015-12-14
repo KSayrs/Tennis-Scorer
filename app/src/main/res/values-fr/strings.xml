@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Points de Tennis K.S.</string>
+
+    <string name="header">Appli pour Compter les Points de Tennis</string>
+    <string name="love_init">Zéro</string>
+    <string name="Game">Points de Jeu:</string>
+    <string name="games_won">Jeu:</string>
+    <string name="player_1">Jouer 1</string>
+    <string name="player_2">Jouer 2</string>
+    <string name="score">Marquer</string>
+    <string name="reset">Remettre</string>
+    <string name="placeholder_number">0</string>
+    <string name="set_points">Set:</string>
+    <string name="match_points">Match:</string>
+    <string name="deuce">Égalité!</string>
+    <string name="tiebreaker">Jeu décisif</string>
+    <string name="advantage1">Jouer un a l\'avantage</string>
+    <string name="advantage2">Jouer deux a l\'avantage</string>
+    <string name="player_one_game_victory">Jouer un a gagné le jeu!</string>
+    <string name="player_two_game_victory">Jouer deux a gagné le jeu!</string>
+    <string name="player_one_set_victory">Jouer un a gagné le set!</string>
+    <string name="player_two_set_victory">Jouer deux a gagné le set!</string>
+    <string name="player_one_match_victory">Jouer un a gagné le match!</string>
+    <string name="player_two_match_victory">Jouer deux a gagné le match!</string>
+
+    <string name="action_settings">Réglages</string>
+</resources>
